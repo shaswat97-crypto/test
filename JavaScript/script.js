@@ -1,7 +1,7 @@
-import Player from "./Player";
-import Enemy from "./Enemy";
-import Particle from "./Particle";
-import Bullet from "./Bullet";
+import Player from "./Player.js";
+import Enemy from "./Enemy.js";
+import Particle from "./Particle.js";
+import Bullet from "./Bullet.js";
 
 const canvas = document.querySelector("canvas");
 canvas.width = window.innerWidth;
